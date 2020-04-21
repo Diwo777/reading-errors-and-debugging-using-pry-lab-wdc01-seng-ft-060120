@@ -1,8 +1,7 @@
 # don't forget to add: require 'pry'
 
 def generate_star_date
- star = (rand(100000) + 400000) / 10.0
- star
+  (rand(100000) + 400000) / 10.0
 end
 
 
